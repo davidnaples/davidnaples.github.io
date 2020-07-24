@@ -1,0 +1,21 @@
+body {
+    background: #ccc;
+  }
+  /* Notre jolie "fenetre" */ .window {
+    border : 8px solid #320;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+  margin : 30px auto;
+    background: #579CB4;
+  }
+
+  .sun {border: tomato;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+  margin : 30px auto;
+    background: white;
+}
