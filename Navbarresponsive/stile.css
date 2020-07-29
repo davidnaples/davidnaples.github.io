@@ -35,7 +35,7 @@
 }
 /* background des liens menus */
 #menu-demo2 li:first-child{
-	background-color: #65537A;
+	background-color: #512683;
 	background-image:-webkit-linear-gradient(top, #65537A 0%, #2A2333 100%);
 	background-image:linear-gradient(to bottom, #65537A 0%, #2A2333 100%);
 }
