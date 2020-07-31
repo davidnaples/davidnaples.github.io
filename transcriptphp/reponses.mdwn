@@ -20,9 +20,9 @@
 
 **Avec quelle commande PHP puis je exécuter ce script ?** php nomefile.php
 
-**Comment défini-t-on une constante ?**
+**Comment défini-t-on une constante ?**define('NOMECOSTANTE', 'valeur costante')
 
-**Comment défini-t-on une variable ?**
+**Comment défini-t-on une variable ?** 
 
 **Comment affiche-t-on du texte ?**
 
