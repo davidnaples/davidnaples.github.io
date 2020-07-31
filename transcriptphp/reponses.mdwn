@@ -1,4 +1,4 @@
-**Transcrire un script (Transcripter ?)**
+**ZTranscrire un script (Transcripter ?)**
 **Ce travail consiste en 4 étapes, dont le point de départ est script JS joint à ce document.**
 
 **Pourquoi ce script JS pour faire du PHP ? Parce que votre objectif sera transcrire ce script JS en PHP. Vous devrez donc créer un script php (par exemple index.php), et le compléter au fur et à mesure pour qu'il s'exécute de la même façon que le code JS. Vous créerez aussi un document au format Markdown qui vous servira à répondre à toutes les questions et intégrer toutes vos remarques.**
