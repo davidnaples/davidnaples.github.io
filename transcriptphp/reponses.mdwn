@@ -22,9 +22,9 @@
 
 **Comment défini-t-on une constante ?**define('NOMECOSTANTE', 'valeur costante')
 
-**Comment défini-t-on une variable ?** 
+**Comment défini-t-on une variable ?** $nomevariable = 'string' ou num 
 
-**Comment affiche-t-on du texte ?**
+**Comment affiche-t-on du texte ?** echo ou print 
 
 **Comment fonctionnent les guillemets simple ?**
 **Comment fonctionnent les guillemets doubles ?**
