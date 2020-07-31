@@ -1,62 +1,62 @@
-Transcrire un script (Transcripter ?)
-Ce travail consiste en 4 étapes, dont le point de départ est script JS joint à ce document.
+**Transcrire un script (Transcripter ?)**
+**Ce travail consiste en 4 étapes, dont le point de départ est script JS joint à ce document.**
 
-Pourquoi ce script JS pour faire du PHP ? Parce que votre objectif sera transcrire ce script JS en PHP. Vous devrez donc créer un script php (par exemple index.php), et le compléter au fur et à mesure pour qu'il s'exécute de la même façon que le code JS. Vous créerez aussi un document au format Markdown qui vous servira à répondre à toutes les questions et intégrer toutes vos remarques.
+**Pourquoi ce script JS pour faire du PHP ? Parce que votre objectif sera transcrire ce script JS en PHP. Vous devrez donc créer un script php (par exemple index.php), et le compléter au fur et à mesure pour qu'il s'exécute de la même façon que le code JS. Vous créerez aussi un document au format Markdown qui vous servira à répondre à toutes les questions et intégrer toutes vos remarques.**
 
-Vous pouvez en parallèle de cela prendre des notes papier, ou sur tout support qui vous aide à assimiler.
-Le fichier Markdown vous donne simplement un cadre de travail structuré, c'est un outil, pas le seul.
-Vous pouvez rédiger le document en français ou en anglais si vous préférez.
-Vous remarquerez que ce document ressemble de manière totalement éhontée à celui que vous avez déjà eu en JavaScript. 
+**Vous pouvez en parallèle de cela prendre des notes papier, ou sur tout support qui vous aide à assimiler.**
+**Le fichier Markdown vous donne simplement un cadre de travail structuré, c'est un outil, pas le seul.**
+**Vous pouvez rédiger le document en français ou en anglais si vous préférez.**
+**Vous remarquerez que ce document ressemble de manière totalement éhontée à celui que vous avez déjà eu en JavaScript.** 
 
-Décrypter un script (Déscripter ?)
+**Décrypter un script (Déscripter ?)**
 
-Etape 1 : la rencontre (~1 heure ?)
-Etape 2 : la bidouille (~2 heures)
-Etape 3 : on maitrise (~ toute la vie)
-Etape 4 : on philosophe (~ toute la vie)
-Annexe : le script à analyser
+**Etape 1 : la rencontre (~1 heure ?)**
+**Etape 2 : la bidouille (~2 heures)**
+**Etape 3 : on maitrise (~ toute la vie)**
+**Etape 4 : on philosophe (~ toute la vie)**
+**Annexe : le script à analyser**
 
-Etape 1 : la rencontre, apprendre à baragouiner en langue étrangère (~1 heure ?)
+**Etape 1 : la rencontre, apprendre à baragouiner en langue étrangère (~1 heure ?)**
 
-Avec quelle commande PHP puis je exécuter ce script ? php nomefile.php
+**Avec quelle commande PHP puis je exécuter ce script ?** php nomefile.php
 
-Comment défini-t-on une constante ?
+**Comment défini-t-on une constante ?**
 
-Comment défini-t-on une variable ?
+**Comment défini-t-on une variable ?**
 
-Comment affiche-t-on du texte ?
+**Comment affiche-t-on du texte ?**
 
-Comment fonctionnent les guillemets simple ?
-Comment fonctionnent les guillemets doubles ?
-Que font les backticks ? 
-Y a t'il d'autres moyens de traiter les chaînes de caractères ?
-Comment afficher des constantes dans une chaîne de caractères  
-Par quoi doit-on remplacer les méthodes Math.floor() et Math.random() ?
+**Comment fonctionnent les guillemets simple ?**
+**Comment fonctionnent les guillemets doubles ?**
+**Que font les backticks ?** 
+**Y a t'il d'autres moyens de traiter les chaînes de caractères ?**
+**Comment afficher des constantes dans une chaîne de caractères  
+Par quoi doit-on remplacer les méthodes Math.floor() et Math.random() ?**
 
-Avez-vous réussi à invoquer un petit chat sauvage ? (oui/non sans justifier)
+**Avez-vous réussi à invoquer un petit chat sauvage ? (oui/non sans justifier)**
 
-Avez-vous pensez à commentez votre script ? 
+**Avez-vous pensez à commentez votre script ?** 
 
-Etape 2 : la bidouille (~2 heures)
+**Etape 2 : la bidouille (~2 heures)**
 
-Proposez deux solutions pour que le combat dure 3 fois plus longtemps en moyenne (des maaaaths !!!)
-Que se passe-t-il si on déplace les deux lignes après le while (13 et 14) avant le while ? (Détaillez un peu, testez plusieurs fois)
-Si je change le nom de mes joueurs, il y aura un souci d'affichage à un moment : résolvez-le !!
-Faites en sorte que l'on puisse au début du jeu saisir le nom du joueur 1.
-Que se passe-t-il si je remplace les && de la ligne 12 par des || ?
-Notre jeu est très injuste envers le joueur 1, pourquoi ? Il existe au moins deux genres approches différentes.
-Etape 3 : on maitrise (~ toute la vie)
+**Proposez deux solutions pour que le combat dure 3 fois plus longtemps en moyenne (des maaaaths !!!)**
+**Que se passe-t-il si on déplace les deux lignes après le while (13 et 14) avant le while ? (Détaillez un peu, testez plusieurs fois)**
+**Si je change le nom de mes joueurs, il y aura un souci d'affichage à un moment : résolvez-le !!**
+**Faites en sorte que l'on puisse au début du jeu saisir le nom du joueur 1.**
+**Que se passe-t-il si je remplace les && de la ligne 12 par des || ?**
+**Notre jeu est très injuste envers le joueur 1, pourquoi ? Il existe au moins deux genres approches différentes.**
+**Etape 3 : on maitrise (~ toute la vie)**
 
-si si, après 4h de travail, no souci...
-Corrigez le script pour qu'il soit plus juste pour le joueur 1
+**si si, après 4h de travail, no souci...**
+**Corrigez le script pour qu'il soit plus juste pour le joueur 1**
 
-Modifiez le script pour qu'une attaque fonctionne 90% du temps et non pas 100% du temps
+**Modifiez le script pour qu'une attaque fonctionne 90% du temps et non pas 100% du temps**
 
-Et il faut alors afficher à l'écran si l'attaque a échoué
-Faites en sorte que si un joueur dispose de moins de 20 points de vie, il boive une potion (qui va lui redonner 60 points de vie) au lieu de lancer une attaque lorsque son tour arrive.
+**Et il faut alors afficher à l'écran si l'attaque a échoué**
+**Faites en sorte que si un joueur dispose de moins de 20 points de vie, il boive une potion (qui va lui redonner 60 points de vie) au lieu de lancer une attaque lorsque son tour arrive.**
 
-Si vous êtes chopatate, vous pouvez faire en sorte que la potion régénère entre 30 et 90 points de vie
-Etape 4 : on philosophe (~ toute la vie)
+**Si vous êtes chopatate, vous pouvez faire en sorte que la potion régénère entre 30 et 90 points de vie**
+**Etape 4 : on philosophe (~ toute la vie)**
 
-La ligne 28 à un comportement similaire avec une autre partie du script (on insiste sur le mot comportement), lequel ? Pensez-vous que ces deux morceaux de code sont complètement équivalents ?
-Dans une itération de notre boucle, les deux joueurs font un peu la même chose... On n'aime pas répéter du code trop similaire : comment pourrait-on essayer de limiter ce doublon de code (explication attendue, pas du code)
+**La ligne 28 à un comportement similaire avec une autre partie du script (on insiste sur le mot comportement), lequel ? Pensez-vous que ces deux morceaux de code sont complètement équivalents ?**
+**Dans une itération de notre boucle, les deux joueurs font un peu la même chose... On n'aime pas répéter du code trop similaire : comment pourrait-on essayer de limiter ce doublon de code (explication attendue, pas du code)**
