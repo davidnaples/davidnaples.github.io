@@ -35,9 +35,9 @@
 }
 /* background des liens menus */
 #menu-demo2 li:first-child{
-	background-color: #512683;
-	background-image:-webkit-linear-gradient(top, #65537A 0%, #2A2333 100%);
-	background-image:linear-gradient(to bottom, #65537A 0%, #2A2333 100%);
+	background-color: #3ac992;
+	background-image:-webkit-linear-gradient(top, #65537A 0%, #233330 100%);
+	background-image:linear-gradient(to bottom, #65537A 0%, #23332e 100%);
 }
 #menu-demo2 li:nth-child(2){
 	background-color: #729EBF;
@@ -50,7 +50,7 @@
 	background-image:linear-gradient(to bottom, #F6AD1A 0%, #9F391A 100%);
 }
 #menu-demo2 li:last-child{
-	background-color: #CFFF6A;
+	background-color: #f36aff;
 	background-image:-webkit-linear-gradient(top, #CFFF6A 0%, #677F35 100%);
 	background-image:linear-gradient(to bottom, #CFFF6A 0%, #677F35 100%);
 }
@@ -65,7 +65,7 @@
 	background:#9F391A;
 }
 #menu-demo2 li:last-child li{
-	background:#677F35;
+	background:#10110f;
 }	
 /* background des liens menus et sous menus au survol */
 #menu-demo2 li:first-child:hover, #menu-demo2 li:first-child li:hover{
@@ -78,7 +78,7 @@
 	background:#F6AD1A;
 }
 #menu-demo2 li:last-child:hover, #menu-demo2 li:last-child li:hover{
-	background:#CFFF6A;
+	background:#6afff8;
 }
 /* les a href */
 #menu-demo2 a{
