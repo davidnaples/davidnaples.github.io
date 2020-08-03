@@ -26,9 +26,9 @@
 
 **Comment affiche-t-on du texte ?** echo ou print 
 
-**Comment fonctionnent les guillemets simple ?**
-**Comment fonctionnent les guillemets doubles ?**
-**Que font les backticks ?** 
+**Comment fonctionnent les guillemets simple ?** Single quotes are the simplest way to make a string
+**Comment fonctionnent les guillemets doubles ?** 
+**Que font les backticks ?** PHP will attempt to execute the contents of the backticks as a shell command;
 **Y a t'il d'autres moyens de traiter les chaînes de caractères ?**
 **Comment afficher des constantes dans une chaîne de caractères  
 Par quoi doit-on remplacer les méthodes Math.floor() et Math.random() ?**
