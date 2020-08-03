@@ -46,8 +46,8 @@
 }
 #menu-demo2 li:nth-child(3){
 	background-color: #F6AD1A;
-	background-image:-webkit-linear-gradient(top, #F6AD1A 0%, #9F391A 100%);
-	background-image:linear-gradient(to bottom, #F6AD1A 0%, #9F391A 100%);
+	background-image:-webkit-linear-gradient(top, #b47b08 0%, #9F391A 100%);
+	background-image:linear-gradient(to bottom, #F6AD1A 0%, #b45a3f 100%);
 }
 #menu-demo2 li:last-child{
 	background-color: #f36aff;
@@ -85,7 +85,7 @@
 	text-decoration:none;
 	display:block;
 	padding:8px 32px;
-	color:#fff;
+	color:rgb(255, 218, 218);
 f	ont-family:arial;
 }
 #menu-demo2 ul a{
