@@ -34,9 +34,9 @@
 Par quoi doit-on remplacer les méthodes Math.floor() et Math.random() ?**
 
 **Avez-vous réussi à invoquer un petit chat sauvage ? (oui/non sans justifier)**
-
+non
 **Avez-vous pensez à commentez votre script ?** 
-
+oui
 **Etape 2 : la bidouille (~2 heures)**
 
 **Proposez deux solutions pour que le combat dure 3 fois plus longtemps en moyenne (des maaaaths !!!)**
