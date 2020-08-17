@@ -4,32 +4,40 @@ html {
   
   table {
     border-collapse: collapse;
-    border: 2px solid rgb(200,200,200);
+    border: 2px solid rgb(30,30,30);
     letter-spacing: 1px;
     font-size: 0.8rem;
   }
-  
+  caption {border:2px solid rgb(30,30,30);
+    border-collapse: collapse;
+    background-color: rgb(211, 211, 211);
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  th[scope="row"] {
+    background-color: rgb(211, 211, 211);
+}
   td, th {
-    border: 1px solid rgb(190,190,190);
+    border-collapse: collapse;
+    border: 2px solid rgb(30,30,30);
     padding: 10px 20px;
   }
   
-  th {
-    background-color: rgb(235,235,235);
-  }
-  
+
   td {
     text-align: center;
   }
   
-  tr:nth-child(even) td {
-    background-color: rgb(250,250,250);
+  tbody tr:nth-child(even) td {
+    background-color: rgb(107, 240, 143);
   }
-  
-  tr:nth-child(odd) td {
-    background-color: rgb(245,245,245);
+
+
+  tbody tr:nth-child(odd) td {
+    background-color: rgb(161, 217, 230);
   }
-  
-  caption {
-    padding: 10px;
-  }
+  tfoot td {background-color: rgb(249, 249, 249) ;
+    font-style: italic;
+}
+ 
