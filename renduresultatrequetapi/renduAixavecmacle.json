@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 5.45,
+        "lat": 43.53
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 302.54,
+        "feels_like": 298.86,
+        "temp_min": 302.04,
+        "temp_max": 303.15,
+        "pressure": 1011,
+        "humidity": 45
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.2,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 70
+    },
+    "dt": 1597762230,
+    "sys": {
+        "type": 1,
+        "id": 6512,
+        "country": "FR",
+        "sunrise": 1597726009,
+        "sunset": 1597775847
+    },
+    "timezone": 7200,
+    "id": 0,
+    "name": "Aix-en-Provence",
+    "cod": 200
+}
