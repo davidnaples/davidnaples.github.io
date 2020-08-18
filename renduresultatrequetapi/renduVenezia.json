@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 12.33,
+        "lat": 45.44
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.21,
+        "feels_like": 301.92,
+        "temp_min": 299.15,
+        "temp_max": 301.48,
+        "pressure": 1009,
+        "humidity": 61
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.1,
+        "deg": 150
+    },
+    "clouds": {
+        "all": 10
+    },
+    "dt": 1597762493,
+    "sys": {
+        "type": 1,
+        "id": 6779,
+        "country": "IT",
+        "sunrise": 1597724133,
+        "sunset": 1597774422
+    },
+    "timezone": 7200,
+    "id": 0,
+    "name": "Venezia",
+    "cod": 200
+}
