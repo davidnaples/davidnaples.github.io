@@ -38,4 +38,5 @@ function sendQueryWithCallback(url, method, callbackFunction) {
     };
     xhr.open("GET", url, true);
     xhr.send();
+
 }

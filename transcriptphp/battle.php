@@ -1,4 +1,5 @@
 <?php
+
 define("player1", "Bobby");
 define("player2" , "Bybbo"); 
 $player1Life=100;
