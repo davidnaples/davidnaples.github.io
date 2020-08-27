@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Mon application en AJAX </title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <h1 class="h1">Ma super app météo <3</h1>
+        <!-- Div dans laquelle on veut afficher les réponses de notre API -->
+        <div id="api-response"></div>
+        <input type="text" name="zip" id="zip" placeholder="Entrez le code postal" value="13013"> <br>
+
+        <span class="wow" id="temp"></span>°C<br>
+        <span class="wow" id="pressure"></span>hPa <br>
+        <span class="wow" id="humidity"></span>%<br>
+
+        <script src="js/main.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <script>
+            /*  méthode qui permet d'afficher la réponse d'une API à une requête donnée */
+           let url = 'http://api.openweathermap.org/data/2.5/weather';
+                     
+           let params = new URLSearchParams();
+           params.append("appid", "8600d7d564076529872375d01d7d93a2"); 
+
+           params.append("zip", document.getElementById('zip').value + ",fr");
+
+            fetch(url + "?" + params.toString(), {
+                method: 'GET', 
+            })
+            .then(function(response) {
+                if(!response.ok) {
+                    throw Error(response.message);
+                } else {
+                    console.log(response);
+                }
+            } )
+            .catch(function(error) {
+                console.log(error.message);
+            });
+
+            axios.get(url, 
+                {params : 
+                    {
+                        appid: "8600d7d564076529872375d01d7d93a2",
+                        zip:  document.getElementById('zip').value + ",fr",
+                    }
+                })
+                .then(function(response) {
+
+                        console.log(response);
+                        let main = response.data.main; 
+                        document.getElementById("temp").innerText = main.temp; 
+                        document.getElementById("humidity").innerText = main.humidity; 
+                        document.getElementById("pressure").innerText = main.pressure; 
+                        
+                } )
+                .catch(function(error) {
+                    console.log(error.message);
+                });
+
+        </script>
+    </body>
+</html>
