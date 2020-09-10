@@ -1,0 +1,64 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.00394in" height="0.964567in" viewBox="0 0 72.2835 69.4488" xml:space="preserve" color-interpolation-filters="sRGB" class="st4" style="">
+	<v:documentproperties v:langid="1036" v:metric="true" v:viewmarkup="false">
+		<v:userdefs>
+			<v:ud v:nameu="msvNoAutoConnect" v:val="VT0(1):26"></v:ud>
+		</v:userdefs>
+	</v:documentproperties>
+
+	<style type="text/css">
+		.st1 {fill:none;stroke:#00a8b4;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#ffffff;stroke:#00a8b4;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#ffffff;stroke:#00a8b4;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	</style>
+
+	<g v:mid="7" v:index="3" v:groupcontext="foregroundPage">
+		<title>Page 3</title>
+		<v:pageproperties v:drawingscale="0.0393701" v:pagescale="0.0393701" v:drawingunits="24" v:shadowoffsetx="8.50394" v:shadowoffsety="-8.50394"></v:pageproperties>
+		<g id="shape1-1" v:mid="1" v:groupcontext="shape" transform="translate(2.83465,-1.41732)">
+			<title>Feuille.1</title>
+			<path class="st1 LiAAnZXo_0" d="M0,36A33.4488,33.4488 0,1,1 66.8976,36A33.4488,33.4488 0,1,1 0,36"></path>
+		</g>
+		<g id="shape2-3" v:mid="2" v:groupcontext="shape" transform="translate(12.3307,-58.252)">
+			<title>Feuille.2</title>
+			<path class="st2 LiAAnZXo_1" d="M0,67.6063A1.84252,1.84252 0,1,1 3.68504,67.6063A1.84252,1.84252 0,1,1 0,67.6063"></path>
+		</g>
+		<g id="shape7-5" v:mid="7" v:groupcontext="shape" transform="translate(13.7292,-59.6504)">
+			<title>Feuille.7</title>
+			<path class="st3 LiAAnZXo_2" d="M0,69.0048A0.444048,0.444048 0,1,1 0.888096,69.0048A0.444048,0.444048 0,1,1 0,69.0048"></path>
+		</g>
+		<g id="shape8-7" v:mid="8" v:groupcontext="shape" transform="translate(0.992126,-34.1575)">
+			<title>Feuille.8</title>
+			<path class="st2 LiAAnZXo_3" d="M0,67.6063A1.84252,1.84252 0,1,1 3.68504,67.6063A1.84252,1.84252 0,1,1 0,67.6063"></path>
+		</g>
+		<g id="shape9-9" v:mid="9" v:groupcontext="shape" transform="translate(2.3906,-35.556)">
+			<title>Feuille.9</title>
+			<path class="st3 LiAAnZXo_4" d="M0,69.0048A0.444048,0.444048 0,1,1 0.888096,69.0048A0.444048,0.444048 0,1,1 0,69.0048"></path>
+		</g>
+		<g id="shape10-11" v:mid="10" v:groupcontext="shape" transform="translate(54.4252,-59.6693)">
+			<title>Feuille.10</title>
+			<path class="st2 LiAAnZXo_5" d="M0,67.6063A1.84252,1.84252 0,1,1 3.68504,67.6063A1.84252,1.84252 0,1,1 0,67.6063"></path>
+		</g>
+		<g id="shape11-13" v:mid="11" v:groupcontext="shape" transform="translate(55.8237,-61.0678)">
+			<title>Feuille.11</title>
+			<path class="st3 LiAAnZXo_6" d="M0,69.0048A0.444048,0.444048 0,1,1 0.888096,69.0048A0.444048,0.444048 0,1,1 0,69.0048"></path>
+		</g>
+		<g id="shape12-15" v:mid="12" v:groupcontext="shape" transform="translate(67.937,-34.1575)">
+			<title>Feuille.12</title>
+			<path class="st2 LiAAnZXo_7" d="M0,67.6063A1.84252,1.84252 0,1,1 3.68504,67.6063A1.84252,1.84252 0,1,1 0,67.6063"></path>
+		</g>
+		<g id="shape13-17" v:mid="13" v:groupcontext="shape" transform="translate(69.3355,-35.556)">
+			<title>Feuille.13</title>
+			<path class="st3 LiAAnZXo_8" d="M0,69.0048A0.444048,0.444048 0,1,1 0.888096,69.0048A0.444048,0.444048 0,1,1 0,69.0048"></path>
+		</g>
+		<g id="shape14-19" v:mid="14" v:groupcontext="shape" transform="translate(57.685,-8.83465)">
+			<title>Feuille.14</title>
+			<path class="st2 LiAAnZXo_9" d="M0,67.6063A1.84252,1.84252 0,1,1 3.68504,67.6063A1.84252,1.84252 0,1,1 0,67.6063"></path>
+		</g>
+		<g id="shape15-21" v:mid="15" v:groupcontext="shape" transform="translate(59.0835,-10.2331)">
+			<title>Feuille.15</title>
+			<path class="st3 LiAAnZXo_10" d="M0,69.0048A0.444048,0.444048 0,1,1 0.888096,69.0048A0.444048,0.444048 0,1,1 0,69.0048"></path>
+		</g>
+	</g>
+<style>.LiAAnZXo_0{stroke-dasharray:211 213;stroke-dashoffset:212;animation:LiAAnZXo_draw 1040ms ease 0ms forwards;}.LiAAnZXo_1{stroke-dasharray:12 14;stroke-dashoffset:13;animation:LiAAnZXo_draw 1040ms ease 26ms forwards;}.LiAAnZXo_2{stroke-dasharray:3 5;stroke-dashoffset:4;animation:LiAAnZXo_draw 1040ms ease 52ms forwards;}.LiAAnZXo_3{stroke-dasharray:12 14;stroke-dashoffset:13;animation:LiAAnZXo_draw 1040ms ease 78ms forwards;}.LiAAnZXo_4{stroke-dasharray:3 5;stroke-dashoffset:4;animation:LiAAnZXo_draw 1040ms ease 104ms forwards;}.LiAAnZXo_5{stroke-dasharray:12 14;stroke-dashoffset:13;animation:LiAAnZXo_draw 1040ms ease 130ms forwards;}.LiAAnZXo_6{stroke-dasharray:3 5;stroke-dashoffset:4;animation:LiAAnZXo_draw 1040ms ease 156ms forwards;}.LiAAnZXo_7{stroke-dasharray:12 14;stroke-dashoffset:13;animation:LiAAnZXo_draw 1040ms ease 182ms forwards;}.LiAAnZXo_8{stroke-dasharray:3 5;stroke-dashoffset:4;animation:LiAAnZXo_draw 1040ms ease 208ms forwards;}.LiAAnZXo_9{stroke-dasharray:12 14;stroke-dashoffset:13;animation:LiAAnZXo_draw 1040ms ease 234ms forwards;}.LiAAnZXo_10{stroke-dasharray:3 5;stroke-dashoffset:4;animation:LiAAnZXo_draw 1040ms ease 260ms forwards;}@keyframes LiAAnZXo_draw{100%{stroke-dashoffset:0;}}@keyframes LiAAnZXo_fade{0%{stroke-opacity:1;}92.72727272727273%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

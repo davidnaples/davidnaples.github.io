@@ -1,0 +1,69 @@
+body {
+    /* background-color: #002F41; */
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-size: larger;
+}
+
+h2 {
+    color: #26B6AE;
+}
+
+button {
+    position: relative;
+    font-size: 16px;
+    color: white;
+    background-color: #DB5873;
+    border-radius: 12px;
+}
+#pag0 {
+  position: relative;
+  min-height: 100vh;
+  max-height: 100vh;
+  background-color: #002F41;
+ /* overflow: hidden;*/
+}
+
+#pag1{
+    background-color: #E0DED6;
+    width: auto;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Container */
+
+#container {
+    /* position: relative; */
+    height: 300px;
+    width: 400px;
+    left: 20px;
+    top: 20px;
+    background: #002F41;
+}
+
+/* Balls */
+
+#redball, #greenball, #blueball {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+#redball {
+    background: radial-gradient(50% 50%, rgb(128, 247, 255), rgb(64, 169, 255) 60%, rgb(89, 0, 255) 95%, rgba(255, 255, 255, 0));
+}
+
+#greenball {
+    background: radial-gradient(50% 50%, rgb(209, 224, 209), rgb(230, 240, 230) 60%, rgb(226, 236, 226) 95%, rgba(255, 255, 255, 0));
+}
+
+#blueball {
+    background: radial-gradient(50% 50%, rgba(128, 128, 255, 1), rgba(64, 64, 255, 1) 60%, rgba(0, 0, 255, 1) 95%, rgba(255, 255, 255, 0));
+}
