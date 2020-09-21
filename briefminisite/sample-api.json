@@ -1,0 +1,754 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 510,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "5H43AAAAcAAJ",
+        "etag": "qy9+0t359n0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5H43AAAAcAAJ",
+        "volumeInfo": {
+          "title": "Baccinata overo battarella per le api barberine",
+          "authors": [
+            "Ferrante Pallavicino"
+          ],
+          "publishedDate": "1671",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BSB:BSB10077081"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 588,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5H43AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5H43AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=5H43AAAAcAAJ&pg=PA213&dq=api&hl=&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=5H43AAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5H43AAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=5H43AAAAcAAJ&rdid=book-5H43AAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.fr/books/download/Baccinata_overo_battarella_per_le_api_ba.epub?id=5H43AAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.fr/books/download/Baccinata_overo_battarella_per_le_api_ba.pdf?id=5H43AAAAcAAJ&hl=&output=pdf&sig=ACfU3U1ZZjmwfU5tKzPGO4Pq-aRu2-4GOQ&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5H43AAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Uando sciamano le \u003cb\u003eApi\u003c/b\u003e , e fuori de &#39; tempi determinati escono da loro Aluearii per \u003cbr\u003e\ncombattere , v . fali di riunirle con vn certo tal quale suono , al rimbombo del \u003cbr\u003e\nquale riduconsi vnitamente , pofcia hor nell&#39;vna ferma , hor nell&#39;altra ripongonfi&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "9yLtDwAAQBAJ",
+        "etag": "Cl6ihlY2lJo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9yLtDwAAQBAJ",
+        "volumeInfo": {
+          "title": "SOA, Microservices, API management",
+          "subtitle": "Le guide de l'architecte d'un SI agile",
+          "authors": [
+            "Xavier Fournier-Morel",
+            "Pascal Grojean",
+            "Guillaume Plouin",
+            "Cyril Rognon"
+          ],
+          "publisher": "Dunod",
+          "publishedDate": "2020-06-24",
+          "description": "Cet ouvrage sâ€™adresse aux responsables des systÃ¨mes dâ€™information, aux architectes, aux maÃ®trises dâ€™ouvrages et aux maÃ®trises dâ€™Å“uvre, ainsi quâ€™aux dÃ©veloppeurs de solutions et aux responsables de production. Les architectures orientÃ©es services (SOA) sâ€™imposent dans lâ€™univers des systÃ¨mes dâ€™information depuis maintenant une quinzaine dâ€™annÃ©es, et ce style dâ€™architecture sâ€™est adaptÃ© pour suivre les changements majeurs apportÃ©s par les gÃ©ants du web et la transformation digitale des entreprises. Lâ€™objectif des auteurs est dâ€™expliquer comment organiser, construire et dÃ©ployer en entreprise, une architecture Ã  base de services. Ils expliquent pourquoi SOA rÃ©pond Ã  la nÃ©cessitÃ© dâ€™avoir un SI agile, et prÃ©sentent une mÃ©thodologie avec les deux points de vue complÃ©mentaires : celui du mÃ©tier et celui de la technique. Cet ouvrage montre aussi comment le recours aux architectures de services permet de construire une architecture cohÃ©rente Ã  lâ€™Ã©chelle de lâ€™entreprise. Des patterns et des solutions sont prÃ©sentÃ©s pour satisfaire les exigences de robustesse et de performance qui rÃ©sultent dâ€™une double Ã©mergence : celle des microservices distribuÃ©s dans un contexte de collaboration DevOps, et celle des flots dâ€™Ã©vÃ¨nements temps rÃ©el dans des SI connectÃ©s aux objets du monde rÃ©el. Enfin, une dÃ©marche pratique est proposÃ©e avec des Ã©tapes et des jalons pour conduire un cheminement progressif dâ€™architecture de services.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9782100813568"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "2100813560"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 528,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9yLtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9yLtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=9yLtDwAAQBAJ&pg=PA451&dq=api&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=9yLtDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9yLtDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 30.99,
+            "currencyCode": "EUR"
+          },
+          "retailPrice": {
+            "amount": 30.99,
+            "currencyCode": "EUR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=9yLtDwAAQBAJ&rdid=book-9yLtDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 30990000,
+                "currencyCode": "EUR"
+              },
+              "retailPrice": {
+                "amountInMicros": 30990000,
+                "currencyCode": "EUR"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.fr/books/download/SOA_Microservices_API_management-sample-pdf.acsm?id=9yLtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9yLtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Transformer un service existant en \u003cb\u003eAPI\u003c/b\u003e, c&#39;est dÃ©finir ce qui est exposÃ© et sous \u003cbr\u003e\nquelle forme. Il est possible de ne pas exposer toutes les opÃ©rations ou \u003cbr\u003e\nressources du ou des services retenus. C&#39;est l&#39;interface de l&#39;\u003cb\u003eAPI\u003c/b\u003e et non celle du \u003cbr\u003e\nservice qui&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "w_JeAAAAcAAJ",
+        "etag": "x7PbhOACCxk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/w_JeAAAAcAAJ",
+        "volumeInfo": {
+          "title": "Brevi Annotazioni sopra le Api di G. Rucellai",
+          "authors": [
+            "Roberto TITI"
+          ],
+          "publishedDate": "1756",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0019038181"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=w_JeAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=w_JeAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=w_JeAAAAcAAJ&pg=RA2-PA279&dq=api&hl=&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=w_JeAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=w_JeAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=w_JeAAAAcAAJ&rdid=book-w_JeAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.fr/books/download/Brevi_Annotazioni_sopra_le_Api_di_G_Ruce.epub?id=w_JeAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=w_JeAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Lutton to difordine dell &#39; \u003cb\u003eApi\u003c/b\u003e pola N4 Egizi come riparino le \u003cb\u003eApi\u003c/b\u003e . L 9076 L Erbe \u003cbr\u003e\ncome s&#39;adacquino Â· 224 Acertola , c danni che ap . porta 756 . Efiodo imitato dal \u003cbr\u003e\nRucellai . Lago &quot; Benaco nutrisce i suoi 43. superato da Virgilio . 230 . pesci di \u003cbr\u003e\ntena&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FpxVDwAAQBAJ",
+        "etag": "9hdWY7ilLd0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FpxVDwAAQBAJ",
+        "volumeInfo": {
+          "title": "API HTML 5",
+          "subtitle": "Maitrisez le web moderne !",
+          "authors": [
+            "Hassen Ben Rebah",
+            "BenoÃ®t Mariat"
+          ],
+          "publisher": "Editions Eyrolles",
+          "publishedDate": "2018-04-12",
+          "description": "MalgrÃ© l'importance qu'occupent les nouvelles API JavaScript de HTML 5 au sein des applications web actuelles, il n'existe que peu d'ouvrages qui dÃ©taillent et prÃ©sentent ces nouvelles spÃ©cifications. L'objectif de ce livre est justement de devenir une rÃ©fÃ©rence sur ces fonctionnalitÃ©s avancÃ©es en rÃ©pondant Ã  ce manque via la prÃ©sentation de chacune des API les plus utiles de maniÃ¨re claire, explicite et conforme aux normes du W3C. Cet ouvrage aborde les principaux sujets suivants : l'API canvas permet de dessiner des graphiques 2D, de manipuler des images et de crÃ©er des animations, l'API SVG sert Ã  dÃ©finir des graphismes vectoriels bidimensionnels, l'API GÃ©olocalisation dÃ©termine la position d'un objet sur un plan ou une carte Ã  l'aide de ses coordonnÃ©es gÃ©ographiques, l'API Glisser-DÃ©poser permet de dÃ©placer des Ã©lÃ©ments graphiques d'une zone vers une autre Ã  l'aide de la souris, l'API Web Storage offre aux applications web la possibilitÃ© de stocker des donnÃ©es localement dans une base de donnÃ©es cÃ´tÃ© client (au niveau du navigateur), l'API Application Cache, de moins en moins utilisÃ©e, consiste Ã  rendre les applications web disponibles en cas de coupure de la connexion Internet et enfin l'API Web Workers pour exÃ©cuter du code JavaScript en parallÃ¨le. Des travaux pratiques prÃ©sentent une synthÃ¨se des concepts traitÃ©s dans l'ouvrage sous forme d'exercices corrigÃ©s. L'objectif de ces travaux pratiques est d'illustrer concrÃ¨tement l'utilisation conjointe des diffÃ©rentes API HTML 5.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9782212675542"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "2212675542"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 294,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FpxVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FpxVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=FpxVDwAAQBAJ&pg=PP2&dq=api&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.fr/books?id=FpxVDwAAQBAJ&dq=api&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/API_HTML_5.html?hl=&id=FpxVDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FpxVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "MalgrÃ©l&#39;importance qu&#39;occupentles nouvelles \u003cb\u003eAPI\u003c/b\u003e JavaScript de HTML5 au sein \u003cbr\u003e\ndes applications web actuelles, il n&#39;existe que peu d&#39;ouvrages qui dÃ©taillentet \u003cbr\u003e\nprÃ©sentent ces nouvelles spÃ©cifications. L&#39;objectif de ce livre est justement de&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "UmRFNq2ClEgC",
+        "etag": "P4YVY0FFmRE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UmRFNq2ClEgC",
+        "volumeInfo": {
+          "title": "La Coltivazione di Luigi Alamanni, e le api di Giovanni Rucellai",
+          "subtitle": "colle annotazioni sopra le api di Roberto Titi, e con gli epigrammi Toscani dell'Alamanni ; si sono aggiunte in questa edizione la vita dell'Alamanni",
+          "authors": [
+            "Luigi Alamanni"
+          ],
+          "publishedDate": "1745",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BSB:BSB11250648"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 458,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UmRFNq2ClEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UmRFNq2ClEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=UmRFNq2ClEgC&pg=RA1-PA375&dq=api&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=UmRFNq2ClEgC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UmRFNq2ClEgC"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=UmRFNq2ClEgC&rdid=book-UmRFNq2ClEgC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=UmRFNq2ClEgC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "colle annotazioni sopra le \u003cb\u003eapi\u003c/b\u003e di Roberto Titi, e con gli epigrammi Toscani dell&#39;\u003cbr\u003e\nAlamanni ; si sono aggiunte in questa edizione la vita dell&#39;Alamanni Luigi \u003cbr\u003e\nAlamanni. C o s E N o T A BI L I . V ze dedicato a S. Maria del Fiore. 5 I. scritto. \u003cbr\u003e\n9o8."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "X6NWAAAAcAAJ",
+        "etag": "Aeua9rv7NwQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/X6NWAAAAcAAJ",
+        "volumeInfo": {
+          "title": "La Coltivazione, e gli Epigrammi di L. Alamanni, e le Api di Giovanni Rucellai ... colle annotazioni del Signor Dottor Giuseppe Bianchini da Prato sopra la Coltivazione e di Roberto Titi sopra le Api. Con la vita dell' Alamanni scritta dal Sig. Co. G. Mazzuchelli ... e con una dotta lettera del Sig. G. Checozzi",
+          "authors": [
+            "Luigi ALAMANNI (the Elder.)"
+          ],
+          "publishedDate": "1795",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0017579655"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 286,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=X6NWAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=X6NWAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=X6NWAAAAcAAJ&pg=RA9-PT4&dq=api&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=X6NWAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X6NWAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=X6NWAAAAcAAJ&rdid=book-X6NWAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.fr/books/download/La_Coltivazione_e_gli_Epigrammi_di_L_Ala.epub?id=X6NWAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.fr/books/download/La_Coltivazione_e_gli_Epigrammi_di_L_Ala.pdf?id=X6NWAAAAcAAJ&hl=&output=pdf&sig=ACfU3U2s1Hzk9Ia1xEu1SPcy-XdwlY9wvg&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=X6NWAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "3 Parei levato 618. riverito da * fudditi , 648. suoi ufficio costumi , 663 â€¢ ngn \u003cbr\u003e\npenge Dori spiacevoli abborriti 998 . dalle \u003cb\u003eApi\u003c/b\u003e , 621 . Richiamar le \u003cb\u003eApi\u003c/b\u003e disviate \u003cbr\u003e\ncoOlmo fiorito nuoce all &#39; \u003cb\u003eApi\u003c/b\u003e , me fi debba , 595 , 841 . Rime abbortite dall &#39; \u003cb\u003eApi\u003c/b\u003e ."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "VQqR_zOzxIAC",
+        "etag": "UdtB8bzLbRE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VQqR_zOzxIAC",
+        "volumeInfo": {
+          "title": "DÃ©velopper avec les API Google Maps",
+          "subtitle": "Applications web, iPhone/iPad et Android",
+          "authors": [
+            "Fabien Goblet",
+            "Michel Dirix",
+            "LoÃ¯c Goblet",
+            "Jean-Philippe Moreux"
+          ],
+          "publisher": "Dunod",
+          "publishedDate": "2010-11-10",
+          "description": "LancÃ©es en juin 2005, les API (Application Programming Interface) Google Maps permettent aux dÃ©veloppeurs de rÃ©aliser des applications basÃ©es sur les cartes numÃ©riques de Google. Il est ainsi devenu possible dâ€™intÃ©grer facilement des donnÃ©es gÃ©olocalisÃ©es sur un fond de carte Google Maps dans un site web, quâ€™il soit Ã  finalitÃ© professionnelle ou personnelle. Google vient de publier la version 3 de ces API qui proposent notamment un meilleur support des pÃ©riphÃ©riques mobiles (iPhone, Android, etc.).Cet ouvrage dÃ©crit lâ€™essentiel des fonctions et de ces outils de dÃ©veloppement, en se focalisant notamment sur les nouveaux usages rendus possibles par le succÃ¨s des smartphones.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9782100557738"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "2100557734"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 232,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VQqR_zOzxIAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VQqR_zOzxIAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=VQqR_zOzxIAC&pg=PT13&dq=api&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=VQqR_zOzxIAC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VQqR_zOzxIAC"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 23.99,
+            "currencyCode": "EUR"
+          },
+          "retailPrice": {
+            "amount": 23.99,
+            "currencyCode": "EUR"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=VQqR_zOzxIAC&rdid=book-VQqR_zOzxIAC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 23990000,
+                "currencyCode": "EUR"
+              },
+              "retailPrice": {
+                "amountInMicros": 23990000,
+                "currencyCode": "EUR"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.fr/books/download/D%C3%A9velopper_avec_les_API_Google_Maps-sample-epub.acsm?id=VQqR_zOzxIAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.fr/books/download/D%C3%A9velopper_avec_les_API_Google_Maps-sample-pdf.acsm?id=VQqR_zOzxIAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=VQqR_zOzxIAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Chapitre2 DÃ©buter avec l&#39;\u003cb\u003eAPI\u003c/b\u003e Google Maps Objectifs Lebutdece chapitre est dese \u003cbr\u003e\nfamiliariser avecl&#39;\u003cb\u003eAPI\u003c/b\u003e Google Maps; il exposera les outils de dÃ©veloppementÃ  \u003cbr\u003e\nmettreen place avant de commencer un projet. Nous reviendrons sur les&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "VZcXRthoj5cC",
+        "etag": "kc1dsmnK9Wc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VZcXRthoj5cC",
+        "volumeInfo": {
+          "title": "DÃ©veloppement Windows 8 : crÃ©er des applications pour le Windows Store, API Windows Runtime (WinRT), C#/C++/XAML .NET, JavaScript/HTML5",
+          "authors": [
+            "Louis-Guillaume Morand",
+            "Luc Vo Van",
+            "Alain Zanchetta"
+          ],
+          "publisher": "Editions Eyrolles",
+          "publishedDate": "2013",
+          "description": "Windows 8 ouvre de nouvelles opportunitÃ©s aux dÃ©veloppeurs de tous horizons : usage en mobilitÃ©, interfaces intuitives et performantes, accÃ¨s aux capteurs, et bien d'autres. Que votre expÃ©rience s'appuie sur JavaScripd HTML5, XAML, C# ou C++, cet ouvrage met Ã  profit vos connaissances pour crÃ©er des applications Windows Store, tout en couvrant les aspects ergonomiques liÃ©s Ã  la diversitÃ© des matÃ©riels et la monÃ©tisation via le Store. Que vous cibliez une plateforme standard (x86) ou bien ARM, au travers de cas pratiques et d'exemples didactiques, vous dÃ©couvrirez les nombreuses possibilitÃ©s qui s'offrent Ã  vous en termes d'intÃ©gration au sein du systÃ¨me et de fonctionnalitÃ©s UX.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9782212136432"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "2212136439"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 283,
+          "printType": "BOOK",
+          "categories": [
+            "Microsoft Windows 8 (systÃ¨me d'exploitation des ordinateurs)"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.6.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VZcXRthoj5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VZcXRthoj5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=VZcXRthoj5cC&pg=PR5&dq=api&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.fr/books?id=VZcXRthoj5cC&dq=api&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9veloppement_Windows_8_cr%C3%A9er_des_appl.html?hl=&id=VZcXRthoj5cC"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=VZcXRthoj5cC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Pour cela fut crÃ©Ã©e une nouvelle \u003cb\u003eAPI\u003c/b\u003e, Win32, qui serait compatible avec les noms \u003cbr\u003e\nde fonctions, la sÃ©mantique et l&#39;utilisation des types de donnÃ©es de l&#39;\u003cb\u003eAPI\u003c/b\u003e \u003cbr\u003e\nWindows 16 bits existante. En ce sens, Win32 peut Ãªtre vu comme une extension\u003cbr\u003e\n&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "7k5RAAAAcAAJ",
+        "etag": "OGOALEML/yk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/7k5RAAAAcAAJ",
+        "volumeInfo": {
+          "title": "La coltivazione di Alamanni e le api di Rucella",
+          "authors": [
+            "Luigi Alamanni"
+          ],
+          "publishedDate": "1718",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BSB:BSB10686410"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=7k5RAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=7k5RAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=7k5RAAAAcAAJ&pg=PA296&dq=api&hl=&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=7k5RAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7k5RAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=7k5RAAAAcAAJ&rdid=book-7k5RAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.fr/books/download/La_coltivazione_di_Alamanni_e_le_api_di.epub?id=7k5RAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.fr/books/download/La_coltivazione_di_Alamanni_e_le_api_di.pdf?id=7k5RAAAAcAAJ&hl=&output=pdf&sig=ACfU3U03z8gltBeVmJDgGzkq9Yc7ugJELA&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=7k5RAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "quentemente si dice de gli animali terrestri : ma l&#39;autore lo traf porta all &#39; \u003cb\u003eApi\u003c/b\u003e , sÃ¬ \u003cbr\u003e\ncome anco di sotto dirÃ  ; Le care mandre abban , donate , e fole . 857. o come \u003cbr\u003e\nstride ) Il Petrarca piÃ¹ propriamente disse piangere dell &#39; onde : Ove rotte dal \u003cbr\u003e\nvento&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "0ZtWAAAAcAAJ",
+        "etag": "2aNunk+a3Os",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0ZtWAAAAcAAJ",
+        "volumeInfo": {
+          "title": "La Coltivazione di L. Alamanni, e le Api di Giovanni Rucellai ... Colle annotazioni di Ruberto Titi sopra le Api, e con gli epigrammi toscani dell' Alamanni. Con una dotta lettera del Sig. Giovanni Checozzi Vicentino in difesa del Trissino, due copiose tavole, e varie notizie intorno alla vita, e agli scritti de' due poeti",
+          "authors": [
+            "Luigi ALAMANNI (the Elder.)"
+          ],
+          "publishedDate": "1746",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "BL:A0017597582"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 261,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0ZtWAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0ZtWAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "fr",
+          "previewLink": "http://books.google.fr/books?id=0ZtWAAAAcAAJ&pg=PA246&dq=api&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=0ZtWAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0ZtWAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "FR",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=0ZtWAAAAcAAJ&rdid=book-0ZtWAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "FR",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.fr/books/download/La_Coltivazione_di_L_Alamanni_e_le_Api_d.epub?id=0ZtWAAAAcAAJ&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.fr/books/download/La_Coltivazione_di_L_Alamanni_e_le_Api_d.pdf?id=0ZtWAAAAcAAJ&hl=&output=pdf&sig=ACfU3U3muFmrDeZuSn6L1l0T-uIDqkOuUQ&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=0ZtWAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "V.1226 piantato vicino alle rose , ac- \u003cb\u003eApi\u003c/b\u003e , cura di esse nella primavecresce loro l&#39;\u003cbr\u003e\nodore . ra . 1.921 &quot; P &quot; autunno scemasi Agrumi che vengono dal seme , loro dell&#39;\u003cbr\u003e\nesca la seconda volta . trapiantare . III . 845 amano di abitare nela la re . V. 341&nbsp;..."
+        }
+      }
+    ]
+  }
