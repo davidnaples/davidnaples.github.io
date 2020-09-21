@@ -1,47 +1,46 @@
 /* Rectangle */
-.rectangle { 
-position: relative;
-max-width: 1000px;
-height: 2204px;
 
-background: #e40d0d;
-box-shadow: 0px 4px 20px rgba(158, 158, 158, 0.07);
+.rectangle {
+    position: relative;
+    max-width: 1000px;
+    height: 2204px;
+    background: #f5f5f5;
+    box-shadow: 0px 4px 20px rgba(158, 158, 158, 0.07);
 }
 
-
 /* Actutu */
-#actutu{
-position: relative;
-height: 72px;
-width: 340px;
-left: 283px;
-top: 186px;
-border-radius: nullpx;
 
-
-font-family: Roboto Condensed;
-font-style: normal;
-font-weight: bold;
-font-size: 64px;
-line-height: 75px;
-
-color: #4A3174;
+#actutu {
+    position: relative;
+    height: 72px;
+    width: 340px;
+    left: 283px;
+    top: 186px;
+    border-radius: nullpx;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 75px;
+    color: #4A3174;
 }
 
 /* Ellipse 1 */
 
-.ellipse1 {position: relative;
-height: 60px;
-width: 60px;
-left: 113px;
-top: 187px;
-border-radius: 0px;
-background: #fcfcfc;
+.ellipse1 {
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 113px;
+    top: 187px;
+    border-radius: 0px;
+    background: #fcfcfc;
 }
 
 /* Ellipse 2 */
 
-.ellipse2 {position: relative;
+.ellipse2 {
+    position: relative;
     height: 60px;
     width: 60px;
     left: 122px;
@@ -49,26 +48,49 @@ background: #fcfcfc;
     border-radius: 0px;
     border-radius: 0px;
     background: #fcfcfc;
-    }
+}
 
-    /* Ellipse 3 */
+/* Ellipse 3 */
 
-.ellipse3 {position: relative;
+.ellipse3 {
+    position: relative;
     height: 60px;
     width: 60px;
     left: 113px;
     top: 187px;
     border-radius: 0px;
     background: #fcfcfc;
-    }
+}
 
-    /* Ellipse 4 */
+/* Ellipse 4 */
 
-.ellipse4{position: relative;
+.ellipse4 {
+    position: relative;
     height: 60px;
     width: 60px;
     left: 113px;
     top: 187px;
     border-radius: 0px;
     background: #fcfcfc;
-    }
+}
+
+ul#menu {
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20x;
+    line-height: 23px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #4A3174;
+}
+
+ul#menu li {
+    display: block;
+    width: 150px;
+    height: 30px;
+    margin: 2px;
+    float: left;
+    /* elementi su singola riga */
+}
