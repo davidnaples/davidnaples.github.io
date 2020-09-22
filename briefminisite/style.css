@@ -8,6 +8,11 @@
     box-shadow: 0px 4px 20px rgba(158, 158, 158, 0.07);
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
+
 /* Actutu */
 
 #actutu {
@@ -70,29 +75,73 @@
     width: 60px;
     left: 150px;
     top: -40px;
-    border-radius: 80px;
+    border-radius: 20px;
     background: #fcfcfc;
 }
 
 ul#menu {
-    font-family: Roboto Condensed;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 20x;
-    line-height: 23px;
     margin: 0;
     padding: 0;
     list-style: none;
     color: #4A3174;
     position: relative;
-    left:200px;
+    left: 80px;
 }
 
 ul#menu li {
-    display: block;
-    width: 150px;
+    font-family: Roboto condensed;
+    font-size: 20px;
+    width: 100px;
     height: 30px;
-    margin: 2px;
+    margin: 10px;
     float: left;
     /* elementi su singola riga */
+}
+
+h1 {
+    position: relative;
+    height: 72px;
+    width: 340px;
+    left: 60px;
+    top: 16px;
+    border-radius: nullpx;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 75px;
+    color: #4A3174;
+}
+
+/* livres recomande */
+
+#livre1 {
+    position: relative;
+    width: 253px;
+    height: 365px;
+    color: aqua;
+    background: url(image.png);
+    box-shadow: 0px 4px 20px
+}
+
+#livre2 {
+    position: relative;
+    top: -365px;
+    left: 300px;
+    width: 253px;
+    height: 365px;
+    color: aqua;
+    background: url(image.png);
+    box-shadow: 0px 4px 20px
+}
+
+#livre3 {
+    position: relative;
+    top: -730px;
+    left: 600px;
+    width: 253px;
+    height: 365px;
+    color: aqua;
+    background: url(image.png);
+    box-shadow: 0px 4px 20px
 }
