@@ -1,10 +1,10 @@
 /* Rectangle */
 
-.rectangle {
+#rectangle {
     position: relative;
     max-width: 1000px;
     height: 2204px;
-    background: #f5f5f5;
+    background: #f4f4f4;
     box-shadow: 0px 4px 20px rgba(158, 158, 158, 0.07);
 }
 
@@ -14,7 +14,7 @@
     position: relative;
     height: 72px;
     width: 340px;
-    left: 283px;
+    left: 200px;
     top: 186px;
     border-radius: nullpx;
     font-family: Roboto Condensed;
@@ -27,50 +27,50 @@
 
 /* Ellipse 1 */
 
-.ellipse1 {
+#ellipse1 {
     position: relative;
     height: 60px;
     width: 60px;
-    left: 113px;
-    top: 187px;
-    border-radius: 0px;
+    left: 60px;
+    top: 115px;
+    border-radius: 50px;
     background: #fcfcfc;
 }
 
 /* Ellipse 2 */
 
-.ellipse2 {
+#ellipse2 {
     position: relative;
     height: 60px;
     width: 60px;
-    left: 122px;
-    top: 187px;
-    border-radius: 0px;
-    border-radius: 0px;
+    left: 90px;
+    top: 70px;
+    border-radius: 60px;
     background: #fcfcfc;
+    color: transparent;
 }
 
 /* Ellipse 3 */
 
-.ellipse3 {
+#ellipse3 {
     position: relative;
     height: 60px;
     width: 60px;
-    left: 113px;
-    top: 187px;
-    border-radius: 0px;
+    left: 120px;
+    top: 10px;
+    border-radius: 60px;
     background: #fcfcfc;
 }
 
 /* Ellipse 4 */
 
-.ellipse4 {
+#ellipse4 {
     position: relative;
     height: 60px;
     width: 60px;
-    left: 113px;
-    top: 187px;
-    border-radius: 0px;
+    left: 150px;
+    top: -40px;
+    border-radius: 80px;
     background: #fcfcfc;
 }
 
@@ -84,6 +84,8 @@ ul#menu {
     padding: 0;
     list-style: none;
     color: #4A3174;
+    position: relative;
+    left:200px;
 }
 
 ul#menu li {
