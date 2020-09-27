@@ -5,14 +5,19 @@ var tableau = [
     { titre: "Imparare a Simplon4", auteur: "Stephen King", prix: "10500,00€" , image: img="briefminisite/assets/img/📘.png" ,resume:"blablablablabla"     },
 
     ];
-/*function afficheRecommandations() {console.log tableau
+function afficheRecommandations(tableau) 
+
+    {
+      
+ return tableau[Math.floor(Math.random()*tableau.length)];
+
+
+    }
+    
+    
+
+/*function afficheLivres(prixMax) {
     
 }
-function afficheLivres(prixMax) {
-    
-}
-console.log(tableau)*/
-
-
-
-console.log(tableau);
+*/
+console.log(afficheRecommandations(tableau));
